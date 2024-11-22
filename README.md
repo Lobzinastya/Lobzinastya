@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">
-  Hi, I'm Lobzinastya
+  Hi, I'm Anastasiia Sobchenko
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
