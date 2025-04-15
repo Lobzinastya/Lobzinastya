@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me :
 I am a Data Scientist actively seeking new opportunities.  
-- :telescope: Based in **Zagreb, Croatia** and open to remote opportunities.  
+- :telescope: Open to remote opportunities.  
 - :seedling: Passionate about learning and applying new tools and technologies in machine learning and deep learning.  
 - :zap: Open to collaborating on exciting projects and solving challenging problems.  
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-lobzinastya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lobzinastya)  
